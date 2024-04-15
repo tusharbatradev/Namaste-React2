@@ -1,0 +1,23 @@
+{
+  "name": "c",
+  "version": "1.0.0",
+  "description": "This is Namaste React by Akshay Saini",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tusharbatradev/Namaste-React2.git"
+  },
+  "keywords": [],
+  "author": "Tushar Batra",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tusharbatradev/Namaste-React2/issues"
+  },
+  "homepage": "https://github.com/tusharbatradev/Namaste-React2#readme",
+  "devDependencies": {
+    "parcel": "^2.12.0"
+  }
+}
